@@ -1,4 +1,4 @@
-Invest by hands, code by foot, and do business by heart. Head does nothing.
+### Invest by hand, code by foot, business by heart. Head does nothing.
 
 
 <!--
