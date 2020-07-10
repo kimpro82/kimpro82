@@ -1,4 +1,5 @@
-### Hi there 👋
+### Invest by hand, code by foot, business by heart. Head does nothing.
+
 
 <!--
 **kimpro82/kimpro82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
