@@ -1,6 +1,6 @@
 ### Invest by hand, code by foot, business by heart. Head does nothing.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=12)
+![Language Usage Statistcs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&layout=compact&langs_count=20)
 
 <!--
 **kimpro82/kimpro82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
