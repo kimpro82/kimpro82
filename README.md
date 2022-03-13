@@ -1,5 +1,7 @@
 ### Invest by hand, code by foot, business by heart. Head does nothing.
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpro82)
+
 ![Language Usage Statistcs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&layout=compact&langs_count=10)
 
 <!--
