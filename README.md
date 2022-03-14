@@ -7,12 +7,12 @@
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![R Studio](https://img.shields.io/badge/r_studio-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![R Studio](https://img.shields.io/badge/r_studio-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-DA5B0B.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Repl.it](https://img.shields.io/badge/Repl.it-0D101E.svg?style=for-the-badge&logo=replit&logoColor=white)  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Microsoft Office 365](https://img.shields.io/badge/Office_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -22,7 +22,7 @@
 ![R](https://img.shields.io/badge/r-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![SAS](https://img.shields.io/badge/sas-B34936.svg?style=for-the-badge&logo=sas&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-f34b7d.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Vanilla JavaScript](https://img.shields.io/badge/vanilla_JS-f1e05a.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
