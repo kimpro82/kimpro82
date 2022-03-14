@@ -24,11 +24,11 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Vanilla JavaScript](https://img.shields.io/badge/vanilla_JS-f1e05a.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Vanilla JavaScript](https://img.shields.io/badge/vanilla_JS-f1e05a.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Not so confident yet but trying to improve
 ![Go](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-89E051.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-89E051.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
