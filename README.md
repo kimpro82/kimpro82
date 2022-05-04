@@ -6,8 +6,7 @@
 
 
 ### Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![R Studio](https://img.shields.io/badge/r_studio-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-DA5B0B.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Repl.it](https://img.shields.io/badge/Repl.it-0D101E.svg?style=for-the-badge&logo=replit&logoColor=white)  
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![R Studio](https://img.shields.io/badge/r_studio-276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-DA5B0B.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Repl.it](https://img.shields.io/badge/Repl.it-0D101E.svg?style=for-the-badge&logo=replit&logoColor=white)  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Microsoft 365](https://img.shields.io/badge/microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### So-so
