@@ -42,7 +42,7 @@
 
 ### Extra Pins
 [![MOOCoke](https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MOOCoke)](https://github.com/kimpro82/MOOCoke)
-[![MyBusinessApplications](https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyBusinessApplications)](https://github.com/kimpro82/MyBusinessApplications)
+[![MyBizApps](https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyBizApps)](https://github.com/kimpro82/MyBizApps)
 
 <!--
 **kimpro82/kimpro82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
