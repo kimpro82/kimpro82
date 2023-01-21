@@ -4,14 +4,14 @@
 
 <!-- I know <table> is terrible but …… -->
 <table align="center" border= 0 style="border: none">
-  <td align="center" style="border: none">
+  <td align="center" border= 0 style="border: none">
 
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=320)
     <br>
 
   ![Language Usage Statistcs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&layout=compact&langs_count=10&card_width=300)
   </td>
-  <td align="center" style="border: none">
+  <td align="center" border= 0 style="border: none">
     <img src="./Images/Slamdunk_VBA.jpg" width=80%>
   </td>
 </table>
