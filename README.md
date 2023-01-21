@@ -2,21 +2,6 @@
 
 ---
 
-<!-- I know <table> is terrible but …… -->
-<table align="center" style="border-right: hidden">
-  <td align="center">
-
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=320)
-    <br>
-
-  ![Language Usage Statistcs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&layout=compact&langs_count=10&card_width=300)
-  </td>
-  <td align="center">
-    <img src="./Images/Slamdunk_VBA.jpg" width=80%>
-  </td>
-</table>
-
-<!-- crazy
 <div align="center">
 
 <div style="display: inline-block; text-align: center; float: none">
@@ -27,14 +12,28 @@
   ![Language Usage Statistcs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&layout=compact&langs_count=10&card_width=300)
   </div>
   <div style="float: right; text-align: center; width: 45%">
-    <img src="./Images/Slamdunk_VBA.jpg" height=360>
+    <img src="./Images/Slamdunk_VBA.jpg" width=100%>
   </div>
 </div>
+
+<!-- I know <table> is terrible but …… → can't remove the frame entirely
+<table align="center" style="border: none">
+  <td align="center">
+
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=320)
+    <br>
+
+  ![Language Usage Statistcs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&layout=compact&langs_count=10&card_width=300)
+  </td>
+  <td align="center">
+    <img src="./Images/Slamdunk_VBA.jpg" width=80%>
+  </td>
+</table> 
 -->
 
 ---
 
-<div align="center">
+<!-- <div align="center"> -->
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
