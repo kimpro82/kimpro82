@@ -14,7 +14,7 @@
   </div>
   <div style="float: right; text-align: center; width: 45%; padding: 3% 1%">
 
-  <img src="./Images/Slamdunk_VBA.jpg">
+  <img src="./Images/Slamdunk_VBA.jpg" width=100%>
   </div>
 </div>
 
