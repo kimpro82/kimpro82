@@ -7,12 +7,12 @@
 <div style="display: inline-block; text-align: center; float: none">
   <div style="float: left; text-align: center; width: 45%">
 
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=320)
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=300)
 
   ![Language Usage Statistcs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&layout=compact&langs_count=10&card_width=300)
   </div>
   <div style="float: right; text-align: center; width: 45%">
-    <img src="./Images/Slamdunk_VBA.jpg" width=100%>
+    <img src="./Images/Slamdunk_VBA.jpg" width=400>
   </div>
 </div>
 
