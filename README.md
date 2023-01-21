@@ -3,15 +3,15 @@
 ---
 
 <!-- I know <table> is terrible but …… -->
-<table align="center" border= 0 style="border: none">
-  <td align="center" border= 0 style="border: none">
+<table align="center" style="border: 0px #000000">
+  <td align="center">
 
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=320)
     <br>
 
   ![Language Usage Statistcs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&layout=compact&langs_count=10&card_width=300)
   </td>
-  <td align="center" border= 0 style="border: none">
+  <td align="center">
     <img src="./Images/Slamdunk_VBA.jpg" width=80%>
   </td>
 </table>
@@ -33,6 +33,8 @@
 -->
 
 ---
+
+<div align="center">
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
