@@ -3,7 +3,7 @@
 ---
 
 <!-- I know <table> is terrible but …… -->
-<table align="center" frame=void bordercolor="#000000">
+<table align="center" frame=void vorder=1 cellspacing=0>
   <td align="center">
 
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=320)
