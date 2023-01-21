@@ -1,10 +1,19 @@
 ### Invest by hand, code by foot, business by heart. Head does nothing.
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpro82)
+<center>
 
-![Language Usage Statistcs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&layout=compact&langs_count=10)
+<div>
+  <div style="float: left">
 
-![VBA No.1](./Images/Slamdunk_VBA.jpg)
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpro82)
+
+  ![Language Usage Statistcs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&layout=compact&langs_count=10)
+  </div>
+  <div style="float: none">
+
+  <img src="./Images/Slamdunk_VBA.jpg" width=350>
+  </div>
+</div>
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -44,6 +53,8 @@
 ### Extra Pins
 [![MOOCoke](https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MOOCoke)](https://github.com/kimpro82/MOOCoke)
 [![MyBizApps](https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyBizApps)](https://github.com/kimpro82/MyBizApps)
+
+</center>
 
 <!--
 **kimpro82/kimpro82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
