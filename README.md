@@ -2,12 +2,27 @@
 
 ---
 
+<!-- I know <table> is terrible but …… -->
+<table align="center">
+  <td align="center">
+
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=320)
+    <br>
+
+  ![Language Usage Statistcs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&layout=compact&langs_count=10&card_width=300)
+  </td>
+  <td align="center">
+    <img src="./Images/Slamdunk_VBA.jpg" width=80%>
+  </td>
+</table>
+
+<!-- crazy
 <div align="center">
 
 <div style="display: inline-block; text-align: center; float: none">
   <div style="float: left; text-align: center; width: 45%">
 
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=300)
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=320)
 
   ![Language Usage Statistcs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&layout=compact&langs_count=10&card_width=300)
   </div>
@@ -15,6 +30,7 @@
     <img src="./Images/Slamdunk_VBA.jpg" height=360>
   </div>
 </div>
+-->
 
 ---
 
