@@ -2,7 +2,7 @@
 
 ---
 
-<center>
+<div style="text-align: center">
 
 <div style="display: inline-block; text-align: center; float: none">
 
@@ -61,7 +61,7 @@
 [![MOOCoke](https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MOOCoke)](https://github.com/kimpro82/MOOCoke)
 [![MyBizApps](https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyBizApps)](https://github.com/kimpro82/MyBizApps)
 
-</center>
+</div>
 
 <!--
 **kimpro82/kimpro82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
