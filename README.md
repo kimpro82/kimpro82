@@ -3,15 +3,15 @@
 ---
 
 <!-- I know <table> is terrible but …… -->
-<table align="center" style="border-collapse: collapse; border: 1px solid #000000">
-  <td align="center">
+<table align="center" style="border-collapse: collapse">
+  <td align="center" style="border: 1px solid #000000">
 
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=320)
     <br>
 
   ![Language Usage Statistcs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&layout=compact&langs_count=10&card_width=300)
   </td>
-  <td align="center">
+  <td align="center" style="border: 1px solid #000000">
     <img src="./Images/Slamdunk_VBA.jpg" width=80%>
   </td>
 </table>
