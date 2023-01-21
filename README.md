@@ -1,19 +1,24 @@
 ### Invest by hand, code by foot, business by heart. Head does nothing.
 
+---
+
 <center>
 
-<div>
-  <div style="float: left">
+<div style="display: inline-block; text-align: center; float: none">
+
+  <div style="float: left; text-align: center; width: 45%; padding: 3% 1%">
 
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpro82)
 
   ![Language Usage Statistcs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&layout=compact&langs_count=10)
   </div>
-  <div style="float: none">
+  <div style="float: right; text-align: center; width: 45%; padding: 3% 1%">
 
-  <img src="./Images/Slamdunk_VBA.jpg" width=350>
+  <img src="./Images/Slamdunk_VBA.jpg">
   </div>
 </div>
+
+---
 
 ### Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -49,6 +54,8 @@
 ![Duolingo](https://img.shields.io/badge/Duolingo-4DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Steam](https://img.shields.io/badge/steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+
+---
 
 ### Extra Pins
 [![MOOCoke](https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MOOCoke)](https://github.com/kimpro82/MOOCoke)
