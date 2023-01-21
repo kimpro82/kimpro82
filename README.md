@@ -10,12 +10,9 @@
 
   <img src="./Images/Slamdunk_VBA.jpg" width=325>
   </div>
-  <div style="float: left; text-align: center; width: 45%; padding: 1% 2%">
+  <div style="text-align: center; width: 45%; padding: 1% 2%">
 
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360)
-
-  </div>
-  <div style="float: left; text-align: center; width: 45%; padding: 1% 2%">
 
   ![Language Usage Statistcs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&layout=compact&langs_count=10&card_width=360)
   </div>
