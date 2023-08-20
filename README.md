@@ -4,20 +4,31 @@
 
 <div align="center">
 
-<div style="display: flex; justify-content: space-between; text-align: center; float: none; width: 100%;">
-  <div style="width: 45%; float: left;">
-    <picture>
+<div style="display: flex; justify-content: space-between; text-align: center; flex-wrap: wrap;">
+  <div style="width: 48%; float: left; text-align: center; vertical-align: middle;">
+    <span><picture>
       <img
         alt="My GitHub stats"
-        src="https://github-readme-stats.vercel.app/api?username=kimpro82"
+        src="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=400"
       />
-    </picture>
+    </picture></span>
     <picture>
-      <img src="./Images/Slamdunk_VBA.jpg"/><br>
+      <img
+        src="./Images/Slamdunk_VBA.jpg"
+        width=400
+      /><br>
     </picture>
   </div>
-  <div style="width: 45%;  float: left;">
+  <div style="width: 48%; float: none; align-items: center; text-align: right">
     <picture>
+      <source
+          media="(prefers-color-scheme: dark)"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&theme=radical"
+      />
+      <source
+          media="(prefers-color-scheme: light)"
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook"
+      />
       <img
         alt="Language Usage Statistcs"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook"
