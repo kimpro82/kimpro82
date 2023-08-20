@@ -20,11 +20,11 @@
         src="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=400"
       />
     </picture>
+    <br>
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
         srcset="./Images/Slamdunk_VBA.jpg"
-        style="filter: invert(90%);"
       />
       <source
         media="(prefers-color-scheme: light)"
@@ -33,6 +33,7 @@
       <img
         src="./Images/Slamdunk_VBA.jpg"
         width=400
+        style="opacity:0.7;"
       /><br>
     </picture>
   </div>
