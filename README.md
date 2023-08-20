@@ -6,14 +6,23 @@
 
 <div style="display: flex; justify-content: space-between; text-align: center; float: none; width: 100%;">
   <div style="width: 45%; float: left;">
-
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpro82)
-
-  <img src="./Images/Slamdunk_VBA.jpg"><br>
+    <picture>
+      <img
+        alt="My GitHub stats"
+        src="https://github-readme-stats.vercel.app/api?username=kimpro82"
+      />
+    </picture>
+    <picture>
+      <img src="./Images/Slamdunk_VBA.jpg"/><br>
+    </picture>
   </div>
   <div style="width: 45%;  float: left;">
-
-  ![Language Usage Statistcs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook)
+    <picture>
+      <img
+        alt="Language Usage Statistcs"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook"
+      />
+    </picture>
   </div>
 </div>
 
