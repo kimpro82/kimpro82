@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<div style="max-width: 95%; display: table-cell; justify-content: space-between; white-space: nowrap;">
+<div style="max-width: 95%; display: inline-block; justify-content: space-between; white-space: nowrap;">
   <div style="max-width: 45%; float: left; vertical-align: middle;">
     <picture>
       <source
