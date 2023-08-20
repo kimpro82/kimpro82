@@ -5,19 +5,19 @@
 <div align="center">
 
 <div style="display: flex; justify-content: space-between; text-align: center; flex-wrap: wrap;">
-  <div style="width: 48%; float: left; text-align: center; vertical-align: middle;">
+  <div style="max-width: 48%; float: center; text-align: center;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=320&theme=dracula"
+        srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=400&theme=dracula"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=320"
+        srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=400"
       />
       <img
         alt="My GitHub stats"
-        src="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=320"
+        src="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=400"
       />
     </picture>
     <br>
@@ -32,12 +32,12 @@
       />
       <img
         src="./Images/Slamdunk_VBA.jpg"
-        width=auto
-        style="opacity:0.7;"
-      /><br>
+        style="max-width=400; opacity:0.7;"
+      />
+      <br>
     </picture>
   </div>
-  <div style="width: 48%; float: none; align-items: center; text-align: right">
+  <div style="max-width: 48%; float: none; align-items: center; text-align: center; vertical-align: middle;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
