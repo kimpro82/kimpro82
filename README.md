@@ -5,7 +5,7 @@
 <div align="center">
 
 <div style="max-width: 95%; display: inline-flex; justify-content: space-between;">
-  <div style="max-width: 45%; float: left; text-align: center; vertical-align: middle;">
+  <div style="max-width: 45%; float: left; vertical-align: middle;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -38,7 +38,7 @@
       <br>
     </picture>
   </div>
-  <div style="max-width: 45%; align-items: center; text-align: center; vertical-align: middle;">
+  <div style="max-width: 45%;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
