@@ -7,9 +7,9 @@
 <div style="display: flex; justify-content: space-between; text-align: center; float: none; width: 100%;">
   <div style="width: 45%; float: left;">
 
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=300)
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpro82)
 
-  <img src="./Images/Slamdunk_VBA.jpg">
+  <img src="./Images/Slamdunk_VBA.jpg"><br>
   </div>
   <div style="width: 45%;  float: left;">
 
