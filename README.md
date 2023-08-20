@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<div style="max-width: 98%; display: flex; justify-content: space-between; text-align: center; flex-wrap: wrap;">
+<div style="max-width: 98%; display: inline-flex; justify-content: space-between; text-align: center; flex-wrap: wrap;">
   <div style="max-width: 48%; float: left; text-align: center;">
     <picture>
       <source
@@ -17,6 +17,7 @@
       />
       <img
         alt="My GitHub stats"
+        width=
         src="https://github-readme-stats.vercel.app/api?username=kimpro82"
       />
     </picture>
