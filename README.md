@@ -17,7 +17,6 @@
       />
       <img
         alt="My GitHub stats"
-        width=
         src="https://github-readme-stats.vercel.app/api?username=kimpro82"
       />
     </picture>
