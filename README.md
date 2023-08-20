@@ -9,15 +9,15 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=400&theme=dracula"
+        srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&theme=dracula"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=400"
+        srcset="https://github-readme-stats.vercel.app/api?username=kimpro82"
       />
       <img
         alt="My GitHub stats"
-        src="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=400"
+        src="https://github-readme-stats.vercel.app/api?username=kimpro82"
       />
     </picture>
     <br>
