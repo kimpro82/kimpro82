@@ -9,11 +9,11 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=400"
+        srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=400&theme=dracula"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=400&theme=dracula"
+        srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=400"
       />
       <img
         alt="My GitHub stats"
@@ -21,10 +21,18 @@
       />
     </picture>
     <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="./Images/Slamdunk_VBA.jpg"
+        style="filter: invert(90%);"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="./Images/Slamdunk_VBA.jpg"
+      />
       <img
         src="./Images/Slamdunk_VBA.jpg"
         width=400
-        style="filter: invert(90%);"
       /><br>
     </picture>
   </div>
@@ -32,11 +40,11 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&theme=dracula"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&theme=dracula"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook"
       />
       <img
         alt="Language Usage Statistcs"
