@@ -9,7 +9,7 @@
 
   ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=300)
 
-  <img src="./Images/Slamdunk_VBA.jpg" width=400>
+  <img src="./Images/Slamdunk_VBA.jpg">
   </div>
   <div style="width: 45%;  float: left;">
 
