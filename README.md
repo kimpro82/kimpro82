@@ -6,12 +6,12 @@
 
 <div style="display: flex; justify-content: space-between; text-align: center; flex-wrap: wrap;">
   <div style="width: 48%; float: left; text-align: center; vertical-align: middle;">
-    <span><picture>
+    <picture>
       <img
         alt="My GitHub stats"
         src="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=400"
       />
-    </picture></span>
+    </picture>
     <picture>
       <img
         src="./Images/Slamdunk_VBA.jpg"
