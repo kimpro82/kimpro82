@@ -5,7 +5,7 @@
 <div align="center">
 
 <div style="max-width: 50%; display: flex; justify-content: space-between; text-align: center; flex-wrap: wrap;">
-  <div style="max-width: 24%; float: right; text-align: center;">
+  <div style="max-width: 24%; float: left; text-align: center;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
