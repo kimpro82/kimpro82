@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<div style="max-width: 95%; display: inline-flex; justify-content: space-between;">
+<div style="max-width: 95%; display: table-cell; justify-content: space-between;">
   <div style="max-width: 45%; float: left; vertical-align: middle;">
     <picture>
       <source
@@ -38,7 +38,7 @@
       <br>
     </picture>
   </div>
-  <div style="max-width: 45%;">
+  <div style="max-width: 45%; float: right">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
