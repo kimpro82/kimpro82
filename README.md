@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<div style="display: flex; justify-content: space-between; text-align: center; flex-wrap: wrap;">
-  <div style="max-width: 48%; float: center; text-align: center;">
+<div style="max-width: 50%; display: flex; justify-content: space-between; text-align: center; flex-wrap: wrap;">
+  <div style="max-width: 48%; float: right; text-align: center;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
