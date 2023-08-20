@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<div style="max-width: 50%; display: flex; justify-content: space-between; text-align: center; flex-wrap: wrap;">
-  <div style="max-width: 24%; float: left; text-align: center;">
+<div style="max-width: 98%; display: flex; justify-content: space-between; text-align: center; flex-wrap: wrap;">
+  <div style="max-width: 48%; float: left; text-align: center;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -37,7 +37,7 @@
       <br>
     </picture>
   </div>
-  <div style="max-width: 24%; float: none; align-items: center; text-align: center; vertical-align: middle;">
+  <div style="max-width: 48%; float: none; align-items: center; text-align: center; vertical-align: middle;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
