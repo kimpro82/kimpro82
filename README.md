@@ -113,11 +113,11 @@
 ### I love
 ![ChatGPT](https://img.shields.io/badge/Chat%20GPT-00A67E?style=for-the-badge&logo=OpenAI&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white)  
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)  
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Duolingo](https://img.shields.io/badge/Duolingo-4DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white)  
 
 ---
 
