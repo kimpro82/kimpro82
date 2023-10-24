@@ -122,8 +122,68 @@
 ---
 
 ### Extra Pins
-[![MOOCoke](https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MOOCoke)](https://github.com/kimpro82/MOOCoke)
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MOOCoke&theme=dracula"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MOOCoke"
+    />
+    <img
+      alt="Language Usage Statistcs"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MOOCoke"
+    />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyBizApps&theme=dracula"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyBizApps"
+    />
+    <img
+      alt="Language Usage Statistcs"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyBizApps"
+    />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="hhttps://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyCodingContest&theme=dracula"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyCodingContest"
+    />
+    <img
+      alt="Language Usage Statistcs"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyCodingContest"
+    />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyInvestmentModules&theme=dracula"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyInvestmentModules"
+    />
+    <img
+      alt="Language Usage Statistcs"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyInvestmentModules"
+    />
+  </picture>
+
+<!-- [![MOOCoke](https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MOOCoke)](https://github.com/kimpro82/MOOCoke)
 [![MyBizApps](https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyBizApps)](https://github.com/kimpro82/MyBizApps)
+[![MyCodingContest](https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyCodingContest)](https://github.com/kimpro82/MyCodingContest)
+[![MyInvestmentModules ](https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyInvestmentModules )](https://github.com/kimpro82/MyInvestmentModules ) -->
 
 </div>
 
