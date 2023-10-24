@@ -2,8 +2,8 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-  <div align="center" style="max-width: 45%; vertical-align: middle;">
+<div align="center" style="display: flex; max-width: 95%; justify-content: space-between;">
+  <div style="max-width: 45%;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -36,7 +36,7 @@
       <br>
     </picture>
   </div>
-  <div align="center" style="max-width: 45%; float: none;">
+  <div style="max-width: 45%;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
