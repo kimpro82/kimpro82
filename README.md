@@ -154,7 +154,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="hhttps://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyCodingContest&theme=dracula"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyCodingContest&theme=dracula"
     />
     <source
       media="(prefers-color-scheme: light)"
