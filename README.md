@@ -41,7 +41,7 @@
       <br>
     </picture>
   </div>
-  <div align="right" style="float: right; max-width: 45%;">
+  <div style="max-width: 45%; float: right; max-width: 45%;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
