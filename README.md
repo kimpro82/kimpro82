@@ -3,8 +3,8 @@
 ---
 
 <div align="center" style="">
-  <div align="center" style="display: flex; justify-content: space-between;">
-    <div style="vertical-align: middle; white-space: nowrap;">
+  <div align="center" style="display: flex;">
+    <div style="margin: 5px 5px; ; white-space: nowrap;">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -20,15 +20,15 @@
         />
       </picture>
     </div>
-    <div style="vertical-align: middle; white-space: nowrap;">
+    <div style="margin: 5px 5px; white-space: nowrap;">
       <img
         alt="Solved.ac"
         src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimpro"
       />
     </div>
   </div>
-  <div style="display: flex; justify-content: space-between;">
-    <div style="vertical-align: middle;">
+  <div style="display: flex;">
+    <div style="margin: 5px 5px; align-items: center">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
@@ -45,7 +45,7 @@
         />
       </picture>
     </div>
-    <div style="vertical-align: middle;">
+    <div style="margin: 5px 5px; align-items: center">
       <picture>
         <source
           media="(prefers-color-scheme: dark)"
