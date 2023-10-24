@@ -4,23 +4,20 @@
 
 <div align="center">
 
-<div style="display: flex; justify-content: space-between; white-space: nowrap;">
+<div style="display: flex; justify-content: space-between;">
   <div style="max-width: 45%; vertical-align: middle;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=
-        %20Github%20Stats&theme=dracula"
+        srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=        %20Github%20Stats&theme=dracula"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s
-        %20Github%20Stats"
+        srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s        %20Github%20Stats"
       />
       <img
         alt="My GitHub stats"
-        src="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s
-        %20Github%20Stats"
+        src="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s        %20Github%20Stats"
       />
     </picture>
     <br>
@@ -45,18 +42,15 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My
-        %20Most%20Used%20Languages&theme=dracula"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My        %20Most%20Used%20Languages&theme=dracula"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My
-        %20Most%20Used%20Languages"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My        %20Most%20Used%20Languages"
       />
       <img
         alt="Language Usage Statistcs"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My
-        %20Most%20Used%20Languages"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My        %20Most%20Used%20Languages"
       />
     </picture>
   </div>
