@@ -2,8 +2,8 @@
 
 ---
 
-<div align="center" style="display: flex; justify-content: space-between;">
-  <div style="max-width: 45%;">
+<div style="">
+  <div style="display: flex; white-space: nowrap;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -18,7 +18,12 @@
         src="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats"
       />
     </picture>
-    <br>
+    <img
+      alt="Solved.ac"
+      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimpro"
+    />
+  </div>
+  <div style="display: flex; white-space: nowrap;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -35,8 +40,6 @@
       />
       <br>
     </picture>
-  </div>
-  <div style="max-width: 45%;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
