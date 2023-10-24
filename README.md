@@ -2,10 +2,8 @@
 
 ---
 
-<div align="center">
-
 <div style="display: flex; justify-content: space-between;">
-  <div style="max-width: 45%; vertical-align: middle;">
+  <div align="center" style="max-width: 45%; vertical-align: middle;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -38,7 +36,7 @@
       <br>
     </picture>
   </div>
-  <div style="max-width: 45%; float: none;">
+  <div align="center" style="max-width: 45%; float: none;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -73,7 +71,7 @@
 
 ---
 
-<!-- <div align="center"> -->
+<div align="center">
 
 ### So-so
 ![VBA](https://img.shields.io/badge/VBA-867DB1?style=for-the-badge&logo=microsoft-excel&logoColor=white)
