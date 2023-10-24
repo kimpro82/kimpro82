@@ -2,7 +2,7 @@
 
 ---
 
-<div align="center" style="display: flex; max-width: 95%; justify-content: space-between;">
+<div align="center" style="display: flex; justify-content: space-between;">
   <div style="max-width: 45%;">
     <picture>
       <source
