@@ -4,8 +4,8 @@
 
 <div align="center">
 
-<div style="max-width: 95%; display: inline-block; justify-content: space-between; white-space: nowrap;">
-  <div style="max-width: 45%; float: left; vertical-align: middle;">
+<div style="display: flex; justify-content: space-between; white-space: nowrap;">
+  <div style="max-width: 45%; vertical-align: middle;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
@@ -41,7 +41,7 @@
       <br>
     </picture>
   </div>
-  <div style="max-width: 45%; float: right; max-width: 45%;">
+  <div style="max-width: 45%; float: none;">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
