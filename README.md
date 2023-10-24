@@ -2,65 +2,63 @@
 
 ---
 
-<div align="center" style="">
-  <div align="center" style="display: flex;">
-    <div style="margin: 5px 5px; ; white-space: nowrap;">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats&theme=dracula"
-        />
-        <source
-          media="(prefers-color-scheme: light)"
-          srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats"
-        />
-        <img
-          alt="My GitHub stats"
-          src="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats"
-        />
-      </picture>
-    </div>
-    <div style="margin: 5px 5px; white-space: nowrap;">
-      <img
-        alt="Solved.ac"
-        src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimpro"
+<div align="center" style="display: flex;">
+  <div style="margin: 5px 5px; ; white-space: nowrap;">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats&theme=dracula"
       />
-    </div>
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats"
+      />
+      <img
+        alt="My GitHub stats"
+        src="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats"
+      />
+    </picture>
   </div>
-  <div style="display: flex;">
-    <div style="margin: 5px 5px; align-items: center">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="./Images/Slamdunk_VBA.jpg"
-        />
-        <source
-          media="(prefers-color-scheme: light)"
-          srcset="./Images/Slamdunk_VBA.jpg"
-        />
-        <img
-          src="./Images/Slamdunk_VBA.jpg"
-          width=360
-          style="max-width=400; opacity:0.7;"
-        />
-      </picture>
-    </div>
-    <div style="margin: 5px 5px; align-items: center">
-      <picture>
-        <source
-          media="(prefers-color-scheme: dark)"
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages&theme=dracula"
-        />
-        <source
-          media="(prefers-color-scheme: light)"
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages"
-        />
-        <img
-          alt="Language Usage Statistcs"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages"
-        />
-      </picture>
-    </div>
+  <div style="margin: 5px 5px; white-space: nowrap;">
+    <img
+      alt="Solved.ac"
+      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimpro"
+    />
+  </div>
+</div>
+<div style="display: flex;">
+  <div style="margin: 5px 5px; align-items: center">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="./Images/Slamdunk_VBA.jpg"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="./Images/Slamdunk_VBA.jpg"
+      />
+      <img
+        src="./Images/Slamdunk_VBA.jpg"
+        width=360
+        style="max-width=400; opacity:0.7;"
+      />
+    </picture>
+  </div>
+  <div style="margin: 5px 5px; align-items: center">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages&theme=dracula"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages"
+      />
+      <img
+        alt="Language Usage Statistcs"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages"
+      />
+    </picture>
   </div>
 </div>
 
