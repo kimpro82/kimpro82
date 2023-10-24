@@ -1,28 +1,7 @@
 ### Invest by hand, code by foot, business by heart. Head does nothing.
 
----
+<div align="center">
 
-<div align="center" style="display: flex;">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats&theme=dracula"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats"
-    />
-    <img
-      alt="My GitHub stats"
-      src="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats"
-    />
-  </picture>
-  <img
-    alt="Solved.ac"
-    src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimpro"
-  />
-</div>
-<div align="center" style="display: flex;">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -38,6 +17,24 @@
       style="max-width=600; opacity:0.7;"
     />
   </picture>
+
+---
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats&theme=dracula"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats"
+    />
+    <img
+      alt="My GitHub stats"
+      src="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats"
+    />
+  </picture>
+
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -52,7 +49,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages"
     />
   </picture>
-</div>
 
 <!-- I know <table> is terrible but …… → can't remove the frame entirely
 <table align="center" style="border: none">
@@ -70,8 +66,6 @@
 -->
 
 ---
-
-<div align="center">
 
 ### So-so
 ![VBA](https://img.shields.io/badge/VBA-867DB1?style=for-the-badge&logo=microsoft-excel&logoColor=white)
