@@ -1,8 +1,4 @@
-<span style="font-size: 1.5em;">
-  Invest by hand, code by foot, business by heart. Head does nothing.
-</span>
-
-<br>
+### Invest by hand, code by foot, business by heart. Head does nothing.
 
 &nbsp;&nbsp;I majored in Statistics and Computer Science and worked in various sales and support roles at a securities firm for 10 years, gaining experience in the financial markets and investments. Currently, I am moving towards bigger dreams as a quant investor.
 
