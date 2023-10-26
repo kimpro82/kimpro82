@@ -1,4 +1,4 @@
-### Invest by hand, code by foot, business by heart. Head does nothing.
+## A Dreamer who Knows to Act and Achieve
 
 &nbsp;&nbsp;I majored in Statistics and Computer Science and worked in various sales and support roles at a securities firm for 10 years, gaining experience in the financial markets and investments. Currently, I am moving towards bigger dreams as a quant investor.
 
