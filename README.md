@@ -1,9 +1,12 @@
-<div align="center">
+<span style="font-size: 1.5em;">
+  Invest by hand, code by foot, business by heart. Head does nothing.
+</span>
 
-  <h3>Invest by hand,<br>
-  code by foot,<br>
-  business by heart.<br>
-  Head does nothing.</h3>
+<br>
+
+&nbsp;&nbsp;I majored in Statistics and Computer Science and worked in various sales and support roles at a securities firm for 10 years, gaining experience in the financial markets and investments. Currently, I am moving towards bigger dreams as a quant investor.
+
+<div align="center">
 
   <picture>
     <source
