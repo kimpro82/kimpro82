@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=A%20Dreamer%20who%20Knows%20to%20Act%20and%20Achieve&&fontSize=40&&animation=twinkling&fontAlign=50&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=A%20Dreamer%20who%20Knows%20to%20Act%20and%20Achieve&&fontSize=40&&animation=twinkling&fontAlign=50&fontAlignY=40&color=gradient)
 
   &nbsp;&nbsp;I majored in Statistics and Computer Science and worked in various sales and support roles at a securities firm for 10 years, gaining experience in the financial markets and investments. Currently, I am moving towards bigger dreams as a quant investor.
 
