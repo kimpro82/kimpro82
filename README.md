@@ -2,7 +2,7 @@
 
   &nbsp;&nbsp;I majored in Statistics and Computer Science and worked in various sales and support roles at a securities firm for 10 years, gaining experience in the financial markets and investments. Currently, I am moving towards bigger dreams as a quant investor.
 
-<div align="center">
+<div align="center" style="margin: auto;">
 
   <picture>
     <source
@@ -24,8 +24,7 @@
 
 ---
 
-<div align="center" style="">
-<div align="center" style="float: left; margin: auto;">
+<div align="center" style="float: none; margin: auto;">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -41,8 +40,6 @@
       style="opacity:0.7;"
     />
   </picture>
-</div>
-<div align="center" style="float: none; margin: auto;">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -57,7 +54,6 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages"
     />
   </picture>
-</div>
 </div>
 
   <!-- I know <table> is terrible but …… → can't remove the frame entirely
