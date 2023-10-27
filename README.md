@@ -1,23 +1,26 @@
 ## A Dreamer who Knows to Act and Achieve
 
-&nbsp;&nbsp;I majored in Statistics and Computer Science and worked in various sales and support roles at a securities firm for 10 years, gaining experience in the financial markets and investments. Currently, I am moving towards bigger dreams as a quant investor.
-
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=K
-      impro%27s%20Github%20Stats&theme=dracula"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats"
-    />
-    <img
-      alt="My GitHub stats"
-      src="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats"
-    />
-  </picture>
+<div align="center" style="display: flex;">
+  <div align="left" style="float: left;">
+    &nbsp;&nbsp;I majored in Statistics and Computer Science and worked in various sales and support roles at a securities firm for 10 years, gaining experience in the financial markets and investments. Currently, I am moving towards bigger dreams as a quant investor.
+  </div>
+  <div align="center" style="float: right;">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=K
+        impro%27s%20Github%20Stats&theme=dracula"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats"
+      />
+      <img
+        alt="My GitHub stats"
+        src="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats"
+      />
+    </picture>
+  </div>
 </div>
 
 <div align="center" style="display: flex;">
