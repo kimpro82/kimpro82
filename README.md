@@ -78,8 +78,7 @@
   ### Skilled at Quantitative Analysis
   ![R](https://img.shields.io/badge/r-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
   ![SAS](https://img.shields.io/badge/sas-B34936.svg?style=for-the-badge&logo=sas&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-e38c00?style=for-the-badge&logo=SQL&logoColor=white)  
-  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-e38c00?style=for-the-badge&logo=SQL&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
@@ -97,17 +96,15 @@
   ![R Studio](https://img.shields.io/badge/r_studio-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-DA5B0B.svg?style=for-the-badge&logo=jupyter&logoColor=white)
   ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)  
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![Microsoft 365](https://img.shields.io/badge/microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
   ### Love
   ![Coursera](https://img.shields.io/badge/Coursera-0056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
   ![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white)
-  ![Duolingo](https://img.shields.io/badge/Duolingo-4DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)  
-  ![Stack Overflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+  ![Duolingo](https://img.shields.io/badge/Duolingo-4DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
+  ![Stack Overflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)  
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
-  ![Samsung](https://img.shields.io/badge/Samsung-1428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
+  ![Samsung](https://img.shields.io/badge/Galaxy-1428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
   ![Steam](https://img.shields.io/badge/steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white)  
 
   ---
