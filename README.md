@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=180&text=A%20Dreamer%20who%20Knows%20to%20Act%20and%20Achieve&&fontSize=40&&animation=twinkling&fontAlign=50&fontAlignY=30&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=150&text=A%20Dreamer%20who%20Knows%20to%20Act%20and%20Achieve&&fontSize=40&&animation=twinkling&fontAlign=50&fontAlignY=25&color=gradient)
 
 <div align="center" style="display: flex;">
   <div align="left" style="float: left;">
