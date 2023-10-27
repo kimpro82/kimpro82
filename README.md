@@ -1,7 +1,6 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=150&text=A%20Dreamer%20who%20Knows%20to%20Act%20and%20Achieve&&fontSize=40&&animation=twinkling&fontAlign=50&fontAlignY=25&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=A%20Dreamer%20who%20Knows%20to%20Act%20and%20Achieve&&fontSize=40&&animation=twinkling&fontAlign=50&fontAlignY=40&color=gradient)
 
-<div align="center" style="display: flex;">
-  <div align="left" style="float: left;">
+  <div align="left" style="">
     &nbsp;&nbsp;I majored in Statistics and Computer Science and worked in various sales and support roles at a securities firm for 10 years, gaining experience in the financial markets and investments. Currently, I am moving towards bigger dreams as a quant investor.
   </div>
   <div align="center" style="float: right;">
@@ -21,9 +20,8 @@
       />
     </picture>
   </div>
-</div>
 
-<div align="center" style="display: flex;">
+<div align="center" style="float: none;">
   <div align="center" style="float: left; margin: auto; margin-right: 5px;">
 
   <picture>
