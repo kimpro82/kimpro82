@@ -36,7 +36,6 @@
     />
     <img
       src="./Images/Slamdunk_VBA.jpg"
-      width=360
       style="opacity:0.7;"
     />
   </picture>
