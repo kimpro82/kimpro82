@@ -28,14 +28,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="./Images/Slamdunk_VBA.jpg"
+      srcset="./Images/Slamdunk_VBA.png"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="./Images/Slamdunk_VBA.jpg"
+      srcset="./Images/Slamdunk_VBA.png"
     />
     <img
-      src="./Images/Slamdunk_VBA.jpg"
+      src="./Images/Slamdunk_VBA.png"
       style="opacity:0.7;"
     />
   </picture>
