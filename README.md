@@ -1,28 +1,8 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=A%20Dreamer%20who%20Knows%20to%20Act%20and%20Achieve&&fontSize=40&&animation=twinkling&fontAlign=50&fontAlignY=40&color=gradient)
 
-  <div align="left" style="">
-    &nbsp;&nbsp;I majored in Statistics and Computer Science and worked in various sales and support roles at a securities firm for 10 years, gaining experience in the financial markets and investments. Currently, I am moving towards bigger dreams as a quant investor.
-  </div>
-  <div align="center" style="float: right;">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=K
-        impro%27s%20Github%20Stats&theme=dracula"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats"
-      />
-      <img
-        alt="My GitHub stats"
-        src="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats"
-      />
-    </picture>
-  </div>
+  &nbsp;&nbsp;I majored in Statistics and Computer Science and worked in various sales and support roles at a securities firm for 10 years, gaining experience in the financial markets and investments. Currently, I am moving towards bigger dreams as a quant investor.
 
-<div align="center" style="float: none;">
-  <div align="center" style="float: left; margin: auto; margin-right: 5px;">
+<div align="center">
 
   <picture>
     <source
@@ -39,23 +19,43 @@
       style="opacity:0.7;"
     />
   </picture>
-  </div>
-  <div align="center" style="float: right; margin: auto; margin-left: 5px;">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages&theme=dracula"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages"
-      />
-      <img
-        alt="Language Usage Statistcs"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages"
-      />
-    </picture>
-  </div>
+
+</div>
+
+---
+
+<div align="center">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=K
+      impro%27s%20Github%20Stats&theme=dracula"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats"
+    />
+    <img
+      alt="My GitHub stats"
+      src="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats"
+    />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages&theme=dracula"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages"
+    />
+    <img
+      alt="Language Usage Statistcs"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages"
+    />
+  </picture>
+
 </div>
 
   <!-- I know <table> is terrible but …… → can't remove the frame entirely
@@ -75,7 +75,7 @@
 
 ---
 
-<div align="center" style="float: none;">
+<div align="center">
 
   ### Familiar with Computational and Automated Trading
   ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
