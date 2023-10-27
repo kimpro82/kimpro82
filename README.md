@@ -7,28 +7,6 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="./Images/Slamdunk_VBA.jpg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./Images/Slamdunk_VBA.jpg"
-    />
-    <img
-      src="./Images/Slamdunk_VBA.jpg"
-      width=360
-      style="opacity:0.7;"
-    />
-  </picture>
-
-</div>
-
----
-
-<div align="center">
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=K
       impro%27s%20Github%20Stats&theme=dracula"
     />
@@ -41,6 +19,30 @@
       src="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats"
     />
   </picture>
+
+</div>
+
+---
+
+<div align="center" style="">
+<div align="center" style="float: left; margin: auto;">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./Images/Slamdunk_VBA.jpg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./Images/Slamdunk_VBA.jpg"
+    />
+    <img
+      src="./Images/Slamdunk_VBA.jpg"
+      width=360
+      style="opacity:0.7;"
+    />
+  </picture>
+</div>
+<div align="center" style="float: none; margin: auto;">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -55,7 +57,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages"
     />
   </picture>
-
+</div>
 </div>
 
   <!-- I know <table> is terrible but …… → can't remove the frame entirely
