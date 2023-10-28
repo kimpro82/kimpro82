@@ -40,6 +40,7 @@
     />
   </picture>
   <picture>
+    <!-- GitHub Readme Stats : https://github.com/anuraghazra/github-readme-stats -->
     <source
       media="(prefers-color-scheme: dark)"
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages&theme=dracula"
@@ -74,6 +75,8 @@
 
 <div align="center">
 
+  <!-- Markdown Badges : https://github.com/Ileriayo/markdown-badges -->
+
   ### Familiar with Computational and Automated Trading
   ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   ![VBA](https://img.shields.io/badge/VBA-867DB1?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -84,13 +87,13 @@
   ![R](https://img.shields.io/badge/r-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
   ![SAS](https://img.shields.io/badge/sas-B34936.svg?style=for-the-badge&logo=sas&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-e38c00?style=for-the-badge&logo=SQL&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
   ### Extensive and Extensible Generalist
   ![ChatGPT](https://img.shields.io/badge/Chat%20GPT-00A67E?style=for-the-badge&logo=OpenAI&logoColor=white)
-  ![Go](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-  ![Shell Script](https://img.shields.io/badge/shell_script-89E051.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)  
+  ![Shell Script](https://img.shields.io/badge/shell_script-89E051.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)
+  ![Go](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
