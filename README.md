@@ -92,8 +92,9 @@
 
   ### Extensive and Extensible Generalist
   ![ChatGPT](https://img.shields.io/badge/Chat%20GPT-00A67E?style=for-the-badge&logo=OpenAI&logoColor=white)
-  ![Shell Script](https://img.shields.io/badge/shell_script-89E051.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)
-  ![Go](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
+  ![Go](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![Rust](https://img.shields.io/badge/rust-dea584.svg?style=for-the-badge&logo=rust&logoColor=black)
+  ![Shell Script](https://img.shields.io/badge/shell_script-89E051.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)  
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Django](https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -184,6 +185,38 @@
       <img
         alt="Language Usage Statistcs"
         src="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyInvestmentModules"
+      />
+    </picture>
+  </a>
+  <a href="https://github.com/kimpro82/MyGame">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyGame&theme=dracula"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyGame"
+      />
+      <img
+        alt="Language Usage Statistcs"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyGame"
+      />
+    </picture>
+  </a>
+  <a href="https://github.com/kimpro82/PhantomOfTheLibrary">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=PhantomOfTheLibrary&theme=dracula"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=PhantomOfTheLibrary"
+      />
+      <img
+        alt="Language Usage Statistcs"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyInvestmPhantomOfTheLibraryentModules"
       />
     </picture>
   </a>
