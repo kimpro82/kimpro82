@@ -22,7 +22,7 @@
 
 </div> -->
 
-<table align="center" style="border: 0px solid transparent; border-collapse : collapse; margin: auto
+<table align="center" style="border: 1px solid transparent; border-collapse : collapse; margin: auto
 ">
   <td align="center">
     <picture>
