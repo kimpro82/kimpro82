@@ -73,6 +73,25 @@
 
 ---
 
+### Certificates
+
+  <div align="center">
+
+  | Category | Issuing Organization | Certificate | Issued Year |
+  |:-:|:--|:--|:-:|
+  | Finance | 한국금융투자협회<br>Korea Financial Investment Association | 재무위험관리사<br>Certified Financial Risk Manager | 2015 |
+  | | | 금융투자분석사<br>Certified Research Analyst | 2012 |
+  | | | 투자자산운용사<br>Certified Investment Manager | 2010 |
+  | | 한국금융연수원<br>Korea Banking Institute | 영업점 컴플라이언스 오피서 (증권)<br>Certified Branch Compliance Officer (Securities) | 2020 |
+  | Accounting | 삼일회계법인<br>Samil PricewaterhouseCoopers | 재경관리사<br>Certified Accounting Manager | 2020 |
+  | IT | 과학기술정보통신부<br>Ministry of Science and ICT,<br>Republic of Korea | 정보처리기사<br>Engineer Information Processing | 2019 |
+  | | 한국데이터산업진흥원<br>Korea Data Agency | SQL 개발자 (SQLD)<br>SQL Developer | 2023 |
+  | | | 데이터 분석 준전문가 (ADsP)<br>Advanced Data Analytics<br>Semi-Professional | 2019 |
+
+  </div>
+
+---
+
 <div align="center">
 
   <!-- Markdown Badges : https://github.com/Ileriayo/markdown-badges -->
