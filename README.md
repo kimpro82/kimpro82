@@ -2,7 +2,8 @@
 
   &nbsp;&nbsp;I majored in Statistics and Computer Science and worked in various sales and support roles at a securities firm for 10 years, gaining experience in the financial markets and investments. Currently, I am moving towards bigger dreams as a quant investor.
 
----
+<br>
+
 <!-- 
 <div align="center" style="margin: auto;">
 
@@ -75,7 +76,7 @@
 
 ### Certificates
 
-  <div align="center">
+<div align="center">
 
   | Category | Issuing Organization | Certificate | Issued Year |
   |:-:|:--|:--|:-:|
@@ -88,15 +89,15 @@
   | | 한국데이터산업진흥원<br>Korea Data Agency | SQL 개발자 (SQLD)<br>SQL Developer | 2023 |
   | | | 데이터 분석 준전문가 (ADsP)<br>Advanced Data Analytics<br>Semi-Professional | 2019 |
 
-  </div>
+</div>
 
 ---
 
 ### Skills
 
-  <!-- Markdown Badges : https://github.com/Ileriayo/markdown-badges -->
+<!-- Markdown Badges : https://github.com/Ileriayo/markdown-badges -->
 
-  <div align="center">
+<div align="center">
 
   | Category | Skill |
   | :-- | :-- |
@@ -106,13 +107,13 @@
   | Tools | ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![R Studio](https://img.shields.io/badge/r_studio-276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-DA5B0B.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) |
   | Love | ![Coursera](https://img.shields.io/badge/Coursera-0056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white) ![Duolingo](https://img.shields.io/badge/Duolingo-4DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)<br>![ChatGPT](https://img.shields.io/badge/Chat%20GPT-00A67E?style=for-the-badge&logo=OpenAI&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) ![Samsung](https://img.shields.io/badge/Galaxy-1428A0.svg?style=for-the-badge&logo=samsung&logoColor=white) ![Steam](https://img.shields.io/badge/steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white) |
 
-  </div>
+</div>
 
 ---
 
-<div align="center">
+### Extra Pins
 
-  ### Extra Pins
+<div align="center">
 
   <a href="https://github.com/kimpro82/MOOCoke">
     <picture>
