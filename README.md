@@ -195,6 +195,38 @@
       />
     </picture>
   </a>
+  <a href="https://github.com/kimpro82/MyFamilyCare">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyFamilyCare&theme=dracula"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyFamilyCare"
+      />
+      <img
+        alt="Language Usage Statistcs"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyFamilyCare"
+      />
+    </picture>
+  </a>
+  <a href="https://github.com/kimpro82/GodSaveTheQueen">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=GodSaveTheQueen&theme=dracula"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=GodSaveTheQueen"
+      />
+      <img
+        alt="Language Usage Statistcs"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=GodSaveTheQueen"
+      />
+    </picture>
+  </a>
   <a href="https://github.com/kimpro82/PhantomOfTheLibrary">
     <picture>
       <source
@@ -207,7 +239,7 @@
       />
       <img
         alt="Language Usage Statistcs"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyInvestmPhantomOfTheLibraryentModules"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=PhantomOfTheLibrary"
       />
     </picture>
   </a>
