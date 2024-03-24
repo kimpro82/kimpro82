@@ -2,7 +2,8 @@
 
   &nbsp;&nbsp;I majored in Statistics and Computer Science and worked in various sales and support roles at a securities firm for 10 years, gaining experience in the financial markets and investments. Currently, I am moving towards bigger dreams as a quant investor.
 
-<!-- <div align="center" style="margin: auto;">
+<!-- 
+<div align="center" style="margin: auto;">
 
   <picture>
     <source
@@ -20,10 +21,10 @@
     />
   </picture>
 
-</div> -->
+</div>
+-->
 
-<table align="center" style="border: 1px solid transparent; border-collapse : collapse; margin: auto
-">
+<table align="center" style="border: 1px solid transparent; border-collapse : collapse; margin: auto">
   <td align="center">
     <picture>
       <source
