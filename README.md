@@ -2,8 +2,6 @@
 
   &nbsp;&nbsp;I majored in Statistics and Computer Science and worked in various sales and support roles at a securities firm for 10 years, gaining experience in the financial markets and investments. Currently, I am moving towards bigger dreams as a quant investor.
 
-<br>
-
 <!-- 
 <div align="center" style="margin: auto;">
 
@@ -25,52 +23,43 @@
 
 </div> -->
 
-<div align="center" style="float: none; margin: auto;">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./Images/Slamdunk_VBA.png"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./Images/Slamdunk_VBA.png"
-    />
-    <img
-      src="./Images/Slamdunk_VBA.png"
-      style="opacity:0.7;"
-    />
-  </picture>
-  <picture>
-    <!-- GitHub Readme Stats : https://github.com/anuraghazra/github-readme-stats -->
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages&theme=dracula"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages"
-    />
-    <img
-      alt="Language Usage Statistcs"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages"
-    />
-  </picture>
-</div>
-
-  <!-- I know <table> is terrible but …… → can't remove the frame entirely
-  <table align="center" style="border: none">
-    <td align="center">
-
-    ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=320)
-      <br>
-
-    ![Language Usage Statistcs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&layout=compact&langs_count=10&card_width=300)
-    </td>
-    <td align="center">
-      <img src="./Images/Slamdunk_VBA.jpg" width=80%>
-    </td>
-  </table> 
-  -->
+<table align="center" style="border-collapse : collapse; margin: auto
+">
+  <td align="center">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="./Images/Slamdunk_VBA.png"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="./Images/Slamdunk_VBA.png"
+      />
+      <img
+        src="./Images/Slamdunk_VBA.png"
+        style="opacity:0.7;"
+      />
+    </picture>
+  </td>
+  <td align="center">
+    <picture>
+      <!-- GitHub Readme Stats : https://github.com/anuraghazra/github-readme-stats -->
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages&theme=dracula"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages"
+      />
+      <img
+        alt="Language Usage Statistcs"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages"
+      />
+    </picture>
+  </td>
+</table> 
+ 
 
 ---
 
@@ -245,18 +234,3 @@
   </a>
 
 </div>
-
-<!--
-**kimpro82/kimpro82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
