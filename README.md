@@ -1,5 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=
-A%20Multifaceted%20Investor:%20Bridging%20Theory,%20Technology%20and%20Strategy&&fontSize=40&&animation=twinkling&fontAlign=50&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=A%20Multifaceted%20Investor:%20Bridging%20Theory,%20Technology%20and%20Strategy&&fontSize=25&&animation=twinkling&fontAlign=50&fontAlignY=40&color=gradient)
 
   &nbsp;&nbsp;I hold three degrees in Statistics, Computer Science and Business Administration. My journey began with a decade-long tenure at a securities firm, where I gained experience in financial markets and investments through sales and support roles. Subsequently, I dedicated four years to researching algorithmic trading as a full-time pursuit. Recently, I've joined the strategic planning department in a corporation, where I'm learning new territories in capital markets including investment analysis, M&A, and post-merger integration (PMI). All of these experiences are part of my journey towards becoming a more comprehensive investor, a challenge I find both exciting and fulfilling.
 
