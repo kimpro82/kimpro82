@@ -1,6 +1,7 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=A%20Dreamer%20who%20Knows%20to%20Act%20and%20Achieve&&fontSize=40&&animation=twinkling&fontAlign=50&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=
+A%20Multifaceted%20Investor:%20Bridging%20Theory,%20Technology%20and%20Strategy&&fontSize=40&&animation=twinkling&fontAlign=50&fontAlignY=40&color=gradient)
 
-  &nbsp;&nbsp;I majored in Statistics and Computer Science and worked in various sales and support roles at a securities firm for 10 years, gaining experience in the financial markets and investments. Currently, I am moving towards bigger dreams as a quant investor.
+  &nbsp;&nbsp;I hold three degrees in Statistics, Computer Science and Business Administration. My journey began with a decade-long tenure at a securities firm, where I gained experience in financial markets and investments through sales and support roles. Subsequently, I dedicated four years to researching algorithmic trading as a full-time pursuit. Recently, I've joined the strategic planning department in a corporation, where I'm learning new territories in capital markets including investment analysis, M&A, and post-merger integration (PMI). All of these experiences are part of my journey towards becoming a more comprehensive investor, a challenge I find both exciting and fulfilling.
 
 <!-- 
 <div align="center" style="margin: auto;">
@@ -59,7 +60,51 @@
     </picture>
   </td>
 </table> 
- 
+
+---
+
+### Degrees
+
+<details>
+  <summary>Expand</summary>
+
+<div align="center">
+
+| Degree | Name | Graduation Year |
+|:-:|:--|:-:|
+| Bachelor | Business Administration | 2025 |
+| Bachelor | Computer Science | 2020 |
+| Bachelor | Statistics | 2011 |
+
+</div>
+
+</details>
+
+---
+
+### Certificates
+
+<details>
+  <summary>Expand</summary>
+
+<div align="center">
+
+  | Category | Issuing Organization | Certificate | Issued Year |
+  |:-:|:--|:--|:-:|
+| Finance | 한국금융투자협회<br>Korea Financial Investment Association | 재무위험관리사<br>Certified Financial Risk Manager | 2015 |
+| | | 금융투자분석사<br>Certified Research Analyst | 2012 |
+| | | 투자자산운용사<br>Certified Investment Manager | 2010 |
+| Accounting | 삼일회계법인<br>Samil PricewaterhouseCoopers | 재경관리사<br>Certified Accounting Manager | 2020 |
+| | 한국원가관리협회<br>Korea Cost Accounting Association | 원가분석사<br>Cost Analyst | 2024 |
+| Business | 한국창업보육협회<br>Korea Business Incubation Association | 창업보육전문매니저<br>Certified Business Incubation Manager | 2024 |
+| Compliance | 한국금융연수원<br>Korea Banking Institute | 영업점 컴플라이언스 오피서 (증권)<br>Certified Branch Compliance Officer (Securities) | 2020 |
+| IT | 과학기술정보통신부<br>Ministry of Science and ICT,<br>Republic of Korea | 정보처리기사<br>Engineer Information Processing | 2019 |
+| | 한국데이터산업진흥원<br>Korea Data Agency | SQL 개발자 (SQLD)<br>SQL Developer | 2023 |
+| | | 데이터 분석 준전문가 (ADsP)<br>Advanced Data Analytics<br>Semi-Professional | 2019 |
+
+</div>
+
+</details>
 
 ---
 
@@ -76,26 +121,6 @@
   | Extensible Generalist | ![ChatGPT](https://img.shields.io/badge/Chat%20GPT-00A67E?style=for-the-badge&logo=OpenAI&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-89E051.svg?style=for-the-badge&logo=gnu-bash&logoColor=black) ![AutoHotKey](https://img.shields.io/badge/AutoHotKey-6594b9.svg?style=for-the-badge&logo=gnu-AutoHotKey&logoColor=black) ![Go](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)<br>![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=FastAPI&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black) ![React](https://img.shields.io/badge/react-087EA4.svg?style=for-the-badge&logo=React&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=TypeScript&logoColor=white) |
   | Tools | ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![R Studio](https://img.shields.io/badge/r_studio-276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-DA5B0B.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) |
   | Love | ![Coursera](https://img.shields.io/badge/Coursera-0056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white) ![Udemy](https://img.shields.io/badge/Udemy-A435F0.svg?style=for-the-badge&logo=Udemy&logoColor=white) ![Duolingo](https://img.shields.io/badge/Duolingo-4DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white) ![Esolang](https://img.shields.io/badge/Esolang-2F2530.svg?style=for-the-badge&logo=Esolang&logoColor=white)<br>![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) ![Samsung](https://img.shields.io/badge/Galaxy-1428A0.svg?style=for-the-badge&logo=samsung&logoColor=white) ![Steam](https://img.shields.io/badge/steam-000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Lotte Giants](https://img.shields.io/badge/Lotte%20Giants-C90827.svg?style=for-the-badge&logo=Lotte%20Giants&logoColor=white) |
-
-</div>
-
----
-
-### Certificates
-
-<div align="center">
-
-  | Category | Issuing Organization | Certificate | Issued Year |
-  |:-:|:--|:--|:-:|
-| Finance | 한국금융투자협회<br>Korea Financial Investment Association | 재무위험관리사<br>Certified Financial Risk Manager | 2015 |
-| | | 금융투자분석사<br>Certified Research Analyst | 2012 |
-| | | 투자자산운용사<br>Certified Investment Manager | 2010 |
-| IT | 과학기술정보통신부<br>Ministry of Science and ICT,<br>Republic of Korea | 정보처리기사<br>Engineer Information Processing | 2019 |
-| | 한국데이터산업진흥원<br>Korea Data Agency | SQL 개발자 (SQLD)<br>SQL Developer | 2023 |
-| | | 데이터 분석 준전문가 (ADsP)<br>Advanced Data Analytics<br>Semi-Professional | 2019 |
-| Accounting | 삼일회계법인<br>Samil PricewaterhouseCoopers | 재경관리사<br>Certified Accounting Manager | 2020 |
-| | 한국원가관리협회<br>Korea Cost Accounting Association | 원가분석사<br>Cost Analyst | 2024 |
-| Compliance | 한국금융연수원<br>Korea Banking Institute | 영업점 컴플라이언스 오피서 (증권)<br>Certified Branch Compliance Officer (Securities) | 2020 |
 
 </div>
 
