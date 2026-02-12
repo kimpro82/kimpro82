@@ -62,7 +62,7 @@
 
 ---
 
-### Degrees
+### 🎓 Degrees
 
 <details>
   <summary>Expand</summary>
@@ -81,7 +81,7 @@
 
 ---
 
-### Certificates
+### 📜 Certificates
 
 <details>
   <summary>Expand</summary>
@@ -107,7 +107,7 @@
 
 ---
 
-### Skills
+### 🛠 Technical Stack & Tools
 
 <!-- Markdown Badges : https://github.com/Ileriayo/markdown-badges -->
 
@@ -124,7 +124,7 @@
 
 ---
 
-### Extra Pins
+### 📍 Extra Pins
 
 <div align="center">
 
