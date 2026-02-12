@@ -8,16 +8,16 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=K
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=kimpro82&card_width=360&custom_title=K
       impro%27s%20Github%20Stats&theme=dracula"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats"
+      srcset="https://github-readme-stats-fast.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats"
     />
     <img
       alt="My GitHub stats"
-      src="https://github-readme-stats.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats"
+      src="https://github-readme-stats-fast.vercel.app/api?username=kimpro82&card_width=360&custom_title=Kimpro%27s%20Github%20Stats"
     />
   </picture>
 
@@ -46,15 +46,15 @@
       <!-- GitHub Readme Stats : https://github.com/anuraghazra/github-readme-stats -->
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages&theme=dracula"
+        srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages&theme=dracula"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages"
+        srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages"
       />
       <img
         alt="Language Usage Statistcs"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages"
+        src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kimpro82&langs_count=20&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook&custom_title=My%20Most%20Used%20Languages"
       />
     </picture>
   </td>
@@ -133,15 +133,15 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MOOCoke&theme=dracula"
+        srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=MOOCoke&theme=dracula"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MOOCoke"
+        srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=MOOCoke"
       />
       <img
         alt="Language Usage Statistcs"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MOOCoke"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=MOOCoke"
       />
     </picture>
   </a>
@@ -149,15 +149,15 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyBizApps&theme=dracula"
+        srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=MyBizApps&theme=dracula"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyBizApps"
+        srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=MyBizApps"
       />
       <img
         alt="Language Usage Statistcs"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyBizApps"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=MyBizApps"
       />
     </picture>
   </a>
@@ -165,15 +165,15 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyCodingContest&theme=dracula"
+        srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=MyCodingContest&theme=dracula"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyCodingContest"
+        srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=MyCodingContest"
       />
       <img
         alt="Language Usage Statistcs"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyCodingContest"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=MyCodingContest"
       />
     </picture>
   </a>
@@ -181,15 +181,15 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyInvestmentModules&theme=dracula"
+        srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=MyInvestmentModules&theme=dracula"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyInvestmentModules"
+        srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=MyInvestmentModules"
       />
       <img
         alt="Language Usage Statistcs"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyInvestmentModules"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=MyInvestmentModules"
       />
     </picture>
   </a>
@@ -197,15 +197,15 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyGame&theme=dracula"
+        srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=MyGame&theme=dracula"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyGame"
+        srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=MyGame"
       />
       <img
         alt="Language Usage Statistcs"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyGame"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=MyGame"
       />
     </picture>
   </a>
@@ -213,15 +213,15 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyFamilyCare&theme=dracula"
+        srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=MyFamilyCare&theme=dracula"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyFamilyCare"
+        srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=MyFamilyCare"
       />
       <img
         alt="Language Usage Statistcs"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=MyFamilyCare"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=MyFamilyCare"
       />
     </picture>
   </a>
@@ -229,15 +229,15 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=GodSaveTheQueen&theme=dracula"
+        srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=GodSaveTheQueen&theme=dracula"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=GodSaveTheQueen"
+        srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=GodSaveTheQueen"
       />
       <img
         alt="Language Usage Statistcs"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=GodSaveTheQueen"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=GodSaveTheQueen"
       />
     </picture>
   </a>
@@ -245,15 +245,15 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=PhantomOfTheLibrary&theme=dracula"
+        srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=PhantomOfTheLibrary&theme=dracula"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=PhantomOfTheLibrary"
+        srcset="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=PhantomOfTheLibrary"
       />
       <img
         alt="Language Usage Statistcs"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=kimpro82&repo=PhantomOfTheLibrary"
+        src="https://github-readme-stats-fast.vercel.app/api/pin/?username=kimpro82&repo=PhantomOfTheLibrary"
       />
     </picture>
   </a>
