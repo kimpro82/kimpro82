@@ -72,7 +72,7 @@
 | Degree | Name | Graduation Year |
 |:-:|:--|:-:|
 | Bachelor | Business Administration | 2025 |
-| Bachelor | Computer Science | 2020 |
+| Bachelor | Computer Information and Communication Engineering | 2020 |
 | Bachelor | Statistics | 2011 |
 
 </div>
